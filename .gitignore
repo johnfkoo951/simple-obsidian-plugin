@@ -2,8 +2,8 @@
 node_modules
 package-lock.json
 
-# build
-main.js
+# Don't ignore built file for BRAT
+# main.js
 
 # obsidian
 data.json
