@@ -1,0 +1,12 @@
+.sample-plugin-modal {
+    padding: 20px;
+}
+
+.sample-plugin-modal h1 {
+    color: var(--text-title-h1);
+    margin-bottom: 10px;
+}
+
+.sample-plugin-modal button {
+    margin-top: 20px;
+}
